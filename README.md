@@ -1,4 +1,4 @@
-# AI-first-Hackathon
+# AI-Hackathon-langChain
 Original Concept video (manual steps):
 https://www.loom.com/share/e89ae402b8fd43e2b968cf79a942ce11
 
@@ -10,7 +10,7 @@ The goal for the AI Agents Hackathon is to chain the 2/3 different prompts in an
 
 The workflow:
 1.	Import CSV of (dummy) comments from a Tiktok video
-2.	Perform the sentiment analysis on the comments using a bot with ChatGPT (Promot I will share soon)
+2.	Perform the sentiment analysis on the comments using a bot with ChatGP
 3.	Create a table of Titles and Synopsis for the Top 10 Reaction videos using a bot with ChatGPT 
 4.	Add two more columns for Script and Hashtags based on the TItle and Synopsis using a bot with ChatGPT
 
